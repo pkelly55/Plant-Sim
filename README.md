@@ -1,2 +1,2 @@
 # Plant-Sim
-Pygame Simulation of the 
+Pygame Simulation of the Planets 
